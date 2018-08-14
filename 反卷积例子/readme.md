@@ -1,6 +1,6 @@
-Test.py йг╤тс╕р╩уем╪ф╛╣д╬М╩Щ╣д©ийс╩╞
-Test2 йг╤тс╕р╩уем╪ф╛╣д╥╢╬М╩Щ╬М╩Щ╣д©ийс╩╞
-tf_deconv.pyсКtf_deconv1.py tensorflow╥╢╬М╩Щ
-python_deconv.pyйгpython╣д╥╢╬М╩Щ
+Test.py Ф≤╞Е╞╧Е╨■Д╦─Е╪═Е⌡╬Г┴┤Г └Е█╥Г╖╞Г └Е▐╞Х╖├Е▄√                  
+Test2 Ф≤╞Е╞╧Е╨■Д╦─Е╪═Е⌡╬Г┴┤Г └Е▐█Е█╥Г╖╞Е█╥Г╖╞Г └Е▐╞Х╖├Е▄√                 
+tf_deconv.pyД╦▌tf_deconv1.py tensorflowЕ▐█Е█╥Г╖╞                                 
+python_deconv.pyФ≤╞pythonГ └Е▐█Е█╥Г╖╞                               
 
-╬ълЕ╧ЩЁлгК╡н©╪нд╪Ч╪п╣дpdf
+Е┘╥Д╫⌠Х©┤Г╗▀Х╞╥Е▐┌Х─┐Ф√┤Д╩╤Е╓╧Г └pdf
